@@ -1,4 +1,4 @@
-// addActions
+// addActions for the player
 
 _rec = 	player addAction ["Record", "capture.sqf"]; 
 _f1 = 	player addAction ["Flight 1", "flight1.sqf"]; 
